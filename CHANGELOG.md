@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/googleapis/java-container/compare/v1.3.4...v1.4.0) (2021-06-07)
+
+
+### Features
+
+* add gcf-owl-bot[bot] to ignoreAuthors ([#467](https://www.github.com/googleapis/java-container/issues/467)) ([c5ba11e](https://www.github.com/googleapis/java-container/commit/c5ba11e7de35cc30346c2263d181c2e6da09e070))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v1.3.0 ([#470](https://www.github.com/googleapis/java-container/issues/470)) ([901c2b8](https://www.github.com/googleapis/java-container/commit/901c2b8df25c49f00a0d3612fef18c783a8cd901))
+
 ### [1.3.4](https://www.github.com/googleapis/java-container/compare/v1.3.3...v1.3.4) (2021-05-19)
 
 
